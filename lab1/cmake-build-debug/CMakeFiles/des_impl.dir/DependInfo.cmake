@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/deadcode/CLionProjects/mzi-labs/lab1/src/block.cpp" "/Users/deadcode/CLionProjects/mzi-labs/lab1/cmake-build-debug/CMakeFiles/des_impl.dir/src/block.cpp.o"
-  "/Users/deadcode/CLionProjects/mzi-labs/lab1/src/cipher.cpp" "/Users/deadcode/CLionProjects/mzi-labs/lab1/cmake-build-debug/CMakeFiles/des_impl.dir/src/cipher.cpp.o"
-  "/Users/deadcode/CLionProjects/mzi-labs/lab1/src/main.cpp" "/Users/deadcode/CLionProjects/mzi-labs/lab1/cmake-build-debug/CMakeFiles/des_impl.dir/src/main.cpp.o"
-  "/Users/deadcode/CLionProjects/mzi-labs/lab1/src/triple.cpp" "/Users/deadcode/CLionProjects/mzi-labs/lab1/cmake-build-debug/CMakeFiles/des_impl.dir/src/triple.cpp.o"
+  "/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/src/block.cpp" "/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/cmake-build-debug/CMakeFiles/des_impl.dir/src/block.cpp.o"
+  "/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/src/cipher.cpp" "/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/cmake-build-debug/CMakeFiles/des_impl.dir/src/cipher.cpp.o"
+  "/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/src/main.cpp" "/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/cmake-build-debug/CMakeFiles/des_impl.dir/src/main.cpp.o"
+  "/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/src/triple.cpp" "/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/cmake-build-debug/CMakeFiles/des_impl.dir/src/triple.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

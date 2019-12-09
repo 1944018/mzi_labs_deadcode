@@ -6,5 +6,5 @@ CXX_FLAGS =  -Wall -Wextra -pedantic -O3 -DNDEBUG -isysroot /Library/Developer/C
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/deadcode/CLionProjects/mzi-labs/lab1/include 
+CXX_INCLUDES = -I/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/include 
 

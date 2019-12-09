@@ -1,6 +1,7 @@
 #pragma once
 
 #include <cstdint>
+#include <iostream>
 
 #define U8V(v) ((uint8_t)(v)&0xFFU)
 #define U16V(v) ((uint16_t)(v)&0xFFFFU)

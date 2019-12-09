@@ -4,19 +4,19 @@
 CMakeFiles/des_impl.dir/src/block.cpp.o
  ../include/block.h
  ../include/const.h
- /Users/deadcode/CLionProjects/mzi-labs/lab1/src/block.cpp
+ /Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/src/block.cpp
 CMakeFiles/des_impl.dir/src/cipher.cpp.o
  ../include/block.h
  ../include/cipher.h
  ../include/const.h
- /Users/deadcode/CLionProjects/mzi-labs/lab1/src/cipher.cpp
+ /Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/src/cipher.cpp
 CMakeFiles/des_impl.dir/src/main.cpp.o
  ../include/block.h
  ../include/cipher.h
  ../include/triple.h
- /Users/deadcode/CLionProjects/mzi-labs/lab1/src/main.cpp
+ /Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/src/main.cpp
 CMakeFiles/des_impl.dir/src/triple.cpp.o
  ../include/block.h
  ../include/cipher.h
  ../include/triple.h
- /Users/deadcode/CLionProjects/mzi-labs/lab1/src/triple.cpp
+ /Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/src/triple.cpp

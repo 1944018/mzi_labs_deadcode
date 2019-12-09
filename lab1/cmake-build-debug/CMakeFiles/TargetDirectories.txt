@@ -1,3 +1,3 @@
-/Users/deadcode/CLionProjects/mzi-labs/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/deadcode/CLionProjects/mzi-labs/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/deadcode/CLionProjects/mzi-labs/lab1/cmake-build-debug/CMakeFiles/des_impl.dir
+/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/deadcode/CLionProjects/mzi_labs_deadcode/lab1/cmake-build-debug/CMakeFiles/des_impl.dir
